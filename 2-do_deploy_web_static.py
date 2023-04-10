@@ -6,7 +6,7 @@ archive to the web servers
 
 from fabric.api import put, run, env
 from os.path import exists
-env.hosts = ['142.44.167.228', '144.217.246.195']
+env.hosts = ['100.25.203.170', '54.146.73.82']
 
 
 def do_deploy(archive_path):
@@ -14,7 +14,9 @@ def do_deploy(archive_path):
     if exists(archive_path) is False:
         return False
     try:
+        #The file_n variable is used to extract the filename
         file_n = archive_path.split("/")[-1]
+        #no_ext is used to extract the filename without the extension
         no_ext = file_n.split(".")[0]
         path = "/data/web_static/releases/"
         put(archive_path, '/tmp/')

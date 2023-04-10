@@ -5,7 +5,7 @@ apt-get -y install nginx
 service nginx start
 mkdir -p /data/web_static/releases/test/
 mkdir -p /data/web_static/shared/
-echo "Holberton School" > /data/web_static/releases/test/index.html
+echo "ALX Africa SWE" > /data/web_static/releases/test/index.html
 # Create a symbolic link
 ln -sf /data/web_static/releases/test/ /data/web_static/current
 # Give ownership of the /data/ folder to the ubuntu user and group
